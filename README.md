@@ -4,7 +4,7 @@
 Librairy of basic functions in C
 
 #Run
-git clone https://github.com/rim31/42-C-libft.git
+git clone https://github.com/rim31/42_C_standard_lib.git
 
 make
 
